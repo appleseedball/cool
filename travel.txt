@@ -4,7 +4,7 @@ Shoes
 Water Bottle
 Bag
 Jacket
-Cellphone charger
+Mobile charger
 
 Food
 -----
