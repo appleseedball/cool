@@ -4,3 +4,13 @@ Shoes
 Water Bottle
 Bag
 Clothes
+Cellphone charger
+
+Food
+-----
+Jam
+Butter
+Bread
+Drinks
+Towels
+Silverware
